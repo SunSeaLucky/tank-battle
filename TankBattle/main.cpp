@@ -5,7 +5,6 @@
 #include "class.h"
 #include "initMap.h"
 
-
 void initMainUI();
 
 int main() {
